@@ -29,3 +29,8 @@ setup ardupilot
 setup pi 
 setup smartnet corrections (can we use ardupilot ntrip casting with orange cube?)
 setup electronics to communicate with eachother
+
+# raspberry pi ssh connection
+ssh suav@10.13.41.148
+10.13.39.176
+password: suavsuav
