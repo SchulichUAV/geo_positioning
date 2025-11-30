@@ -12,7 +12,7 @@ import io
 
 
 SBF_PIN = 18 # The GPIO pin on the Pi to send to the SBF Event
-SERIAL_PORT_NAME = "/dev/ttyS0' # The serial connection to the receiver
+SERIAL_PORT_NAME = "/dev/ttyS0" # The serial connection to the receiver
 CAMERA_USB_PORT = 0 # The camera USB port
 
 DEBUG_MODE=True # Set to not cause errors due to lack of position
